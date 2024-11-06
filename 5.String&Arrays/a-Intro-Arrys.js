@@ -11,6 +11,6 @@ console.log(booleanos[0]);
 console.log(combinados[1]);
 
 // Recorrer un array
-for(let i = 0; i < edades.length ;i++){ // length devuelve la cantidad de cosas dentreo del array (Arreglo)
-
+for(let i = 0; i < nombre.length ;i++){ // length devuelve la cantidad de cosas dentro del array (Arreglo)
+    console.log(nombre[i]); // recorre el array por la cariable [i]
 }
